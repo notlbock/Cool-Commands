@@ -4,6 +4,12 @@ for _, r in pairs(script.Parent.rep:GetChildren()) do
 	r.Parent = game.ReplicatedStorage
 end
 
+--[[
+		Do we keep the bad !damage part, sure,
+	it stinks though.
+	- Edenns_altacc 01-30-2026 3:10-PM
+]]
+
 THING = "!" -- you shall not change the variable name from this
 src = script.Parent:WaitForChild("src")
 temp = script.Parent:WaitForChild("temp")
