@@ -1,4 +1,4 @@
 # Cool Commands
 This is a command system made by me. 
 
-The roblox studio link is not available since the project is not released.
+MODEL LINK: https://create.roblox.com/store/asset/72941741825550/Cool-Commands
